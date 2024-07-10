@@ -1,0 +1,28 @@
+EkNNfit                 Training of the EkNN classifier
+EkNNinit                Initialization of parameters for the EkNN
+                        classifier
+EkNNval                 Classification of a test set by the EkNN
+                        classifier
+RBFfit                  Training of a radial basis function classifier
+RBFinit                 Initialization of parameters for a Radial Basis
+                        Function classifier
+RBFval                  Classification of a test set by a radial basis
+                        function classifier
+calcAB                  Determination of optimal coefficients for
+                        computing weights of evidence in logistic
+                        regression
+calcm                   Determination of optimal coefficients for
+                        computing weights of evidence in logistic
+                        regression
+decision                Decision rules for evidential classifiers
+evclass                 evclass: A package for evidential
+                        classification
+glass                   Glass dataset
+ionosphere              Ionosphere dataset
+proDSfit                Training of the evidential neural network
+                        classifier
+proDSinit               Initialization of parameters for the evidential
+                        neural network classifier
+proDSval                Classification of a test set by the evidential
+                        neural network classifier
+vehicles                Vehicles dataset
